@@ -1,1 +1,1 @@
-"""disclosescrape baseline (single-responsibility pipeline)."""
+"""disclosescrape package (single-responsibility pipeline)."""
