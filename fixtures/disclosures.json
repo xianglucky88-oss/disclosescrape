@@ -1,0 +1,138 @@
+[
+  {
+    "id": "r-101",
+    "src": "GLOBEX",
+    "name": "营业收入",
+    "value": 100,
+    "announcement_id": "A-2026-002",
+    "table_id": "T-001",
+    "publish_date": "2026-02-10T08:00:00+08:00",
+    "period_type": "Q3",
+    "period_start": "2025-10-01",
+    "period_end": "2025-12-31",
+    "period_end_tz": "Asia/Shanghai",
+    "fiscal_year_end": "03-31"
+  },
+  {
+    "id": "r-102",
+    "src": "globex",
+    "name": "净利润",
+    "value": 200,
+    "announcement_id": "A-2026-002",
+    "table_id": "T-002",
+    "publish_date": "2026-02-10T08:00:00+08:00",
+    "period_type": "季报",
+    "period_start": "2025/10/01",
+    "period_end": "2025/12/31",
+    "period_end_tz": "Asia/Shanghai",
+    "fiscal_year_end": "03-31"
+  },
+  {
+    "id": "r-103",
+    "src": "globex",
+    "name": "营业收入",
+    "value": 50,
+    "announcement_id": "A-2025-009",
+    "table_id": "T-003",
+    "publish_date": "2025-11-05",
+    "period_type": "quarter",
+    "period_start": "2025-04-01",
+    "period_end": "2025-06-30",
+    "fiscal_year_end": "03-31"
+  },
+  {
+    "id": "r-104",
+    "src": "Globex",
+    "name": "营业收入",
+    "value": 110,
+    "announcement_id": "A-2026-010",
+    "table_id": "T-001",
+    "publish_date": "2026-03-20",
+    "period_type": "Q3",
+    "period_start": "2025-10-01",
+    "period_end": "2025-12-31",
+    "fiscal_year_end": "03-31",
+    "is_restatement": true,
+    "restatement_of": "A-2026-002"
+  },
+  {
+    "id": "r-105",
+    "src": "globex",
+    "name": "营业收入",
+    "value": 100,
+    "announcement_id": "A-2026-002",
+    "table_id": "T-001",
+    "publish_date": "2026年2月10日",
+    "period_type": "三季报",
+    "period_start": "2025.10.01",
+    "period_end": "2025/12/31",
+    "fiscal_year_end": "3月31日"
+  },
+  {
+    "id": "r-106",
+    "src": "globex",
+    "name": "其他收益",
+    "value": 9,
+    "announcement_id": "A-2026-003",
+    "table_id": "T-009",
+    "publish_date": "2025-09-15",
+    "ann_period": "2025-12-31",
+    "period_type": "quarter",
+    "period_start": "2025-04-01",
+    "period_end": "2025-06-30",
+    "fiscal_year_end": "03-31"
+  },
+  {
+    "id": "r-107",
+    "src": "globex",
+    "name": "待定科目",
+    "value": 0,
+    "announcement_id": "A-2026-020",
+    "publish_date": "2026-04-01"
+  },
+  {
+    "id": "r-108",
+    "src": "zenith",
+    "name": "年度营收",
+    "value": 900,
+    "announcement_id": "Z-2026-001",
+    "table_id": "Z-T1",
+    "publish_date": "2026-01-25T16:00:00Z",
+    "period_type": "annual",
+    "period_start": "2025-01-01",
+    "period_end": "2025-12-31",
+    "period_end_tz": "UTC"
+  },
+  {
+    "id": "r-109",
+    "src": "zenith",
+    "name": "半年度营收",
+    "value": 420,
+    "announcement_id": "Z-2025-008",
+    "table_id": "Z-T2",
+    "publish_date": "2025-08-20",
+    "period_type": "半年度",
+    "period_start": "2025-01-01",
+    "period_end": "2025-06-30"
+  },
+  {
+    "id": "r-110",
+    "src": "zenith",
+    "name": "季度营收",
+    "value": 210,
+    "fiscal_year": 2025,
+    "fiscal_period": "Q3",
+    "fiscal_year_end": "12-31",
+    "announcement": {
+      "announcement_id": "Z-2025-012",
+      "publish_date": "2025/10/22",
+      "ann_period": "2025-09-30"
+    },
+    "table": {
+      "table_id": "Z-T3",
+      "period_type": "quarter",
+      "period_start": "2025-07-01",
+      "period_end": "2025-09-30"
+    }
+  }
+]
